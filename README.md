@@ -5,6 +5,12 @@ Started by cloning the starter code. Reviewed and looked over both the HTML and 
 
 ## Sample Images
 <img src="./assets/images/brand-awareness.png"/>
+<img src="./assests/images/cost-management.png"/>
+<img src="./assests/images/digital-marketing-meeting.jpg"/>
+<img src="./assests/images/lead-generation.png"/>
+<img src=".assests/images/online-reputation-management.jpg"/>
+<img src=".assests/images/search-engine-optimization.jpg"/>
+<img src=".assests/images/social media marketing.jpg"/>
 
 ## Tech used
 * HTML
